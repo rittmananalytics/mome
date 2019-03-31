@@ -6,11 +6,11 @@
 _01-04-2019: Today we’re proud to bring you MOME 1.0.0. There are some big improvements to SunPlus SPG240/SPG280 audio emulation, Cognos Powerplay cube aggregation and initial support for Oracle Financial Analyzer database write-back_
 
 ## What is MOME? 
-MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") console engines, 4GL programming languages and the software that ran on those consoles. 
+MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") engines, 4GL programming languages and the servers and OLAP applications that ran on those engines.
 
 ## The MOME Project
 
-MOME's purpose is to preserve decades of multi-dimensional MOLAP engine and software history. As analytical processing technology continues to rush forward, MOME prevents this important "vintage" technology from being lost and forgotten. This is achieved by documenting the MOLAP engine, its multi-dimensional storage format and 4GL query languages, along with the software that you know and love from the 90's such as Microsoft OLAP Services 7.0 AdventureWorks. 
+MOME's purpose is to preserve decades of multi-dimensional MOLAP engine and software history. As analytical processing technology continues to rush forward, MOME prevents this important "vintage" technology from being lost and forgotten. This is achieved by documenting the MOLAP engine, its multi-dimensional storage format and 4GL query languages, along with the software and sample databases for those engines such as Microsoft OLAP Services 7.0 AdventureWorks. 
 
 Over time, MOME (originally stood for Multiple OLAP Machine Emulator) absorbed the sister-project MESS (Multi-dimensional Engine Super System), so MOME now documents a wide variety of (mostly vintage) MOLAP, Relational OLAP ("ROLAP") and now Hybrid OLAP "HOLAP" engines in addition to the MOLAP engines and desktop applications that were its initial focus.
 
@@ -51,6 +51,13 @@ An Arcade Cabinet conversion into a MOME Cabinet consists of:
 -   connecting it to a printer
 
 Note that you must legally own the original MOLAP engine hardware and applications that you use with MOME.
+
+# Moving to the Cloud?
+
+No hardware! No problem! Last year's April 1st releases of our cloud BI retro classics are still available:
+
+- [Discover Cloud Service (2018)](https://twitter.com/markrittman/status/980422422330560512)
+- [Enterprise Planning & Budgeting Cloud (2018)] (https://twitter.com/markrittman/status/980592163707936768)
 
 # License
 
