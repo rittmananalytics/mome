@@ -54,10 +54,10 @@ Note that you must legally own the original MOLAP engine hardware and applicatio
 
 # Moving to the Cloud?
 
-No hardware! No problem! Last year's April 1st releases of our cloud BI retro classics are still available:
+No hardware! No problem! Discoverer Cloud Service and EPB Cloud Service are available again for just today - 1st April 2019
 
 - [Discover Cloud Service (2018)](https://twitter.com/markrittman/status/980422422330560512)
-- [Enterprise Planning & Budgeting Cloud (2018)] (https://twitter.com/markrittman/status/980592163707936768)
+- [Enterprise Planning & Budgeting Cloud (2018)](https://twitter.com/markrittman/status/980592163707936768)
 
 # License
 
