@@ -3,9 +3,7 @@
 
 # Welcome to The Official MOME Development Site
 
-Latest News: Today we’re proud to bring you MOME 1.0.0. There are some big improvements to SunPlus SPG240/SPG280 audio emulation, Cognos Powerplay cube aggregation and initial support for Oracle Financial Analyzer database write-back. Not only does this greatly improve the enjoyability of planning and budgeting games, it’s also timed perfectly for the addition of Oracle Enterprise Planning and Budgeting.
- 
- (*) coming soon
+_April 1st 20190: Today we’re proud to bring you MOME 1.0.0. There are some big improvements to SunPlus SPG240/SPG280 audio emulation, Cognos Powerplay cube aggregation and initial support for Oracle Financial Analyzer database write-back._ 
 
 ## What is MOME? 
 MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") engines, server software and the games that run on those engines. 
