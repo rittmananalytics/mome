@@ -54,6 +54,9 @@ An Arcade Cabinet conversion into a MOME Cabinet consists of:
 -   removing the original proprietary electronic game board (PCB) inside a cabinet,
 -   replacing it with a computer (a PC) and
 -   interfacing it (display, controls, sound etc.)
+-   flashing required MOLAP engine drivers and application software into a game cartridge
+
+Note that you must legally own the original MOLAP engine hardware and software to use with MOME.
 
 # License
 
