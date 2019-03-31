@@ -6,11 +6,11 @@
 _April 1st 20190: Today we’re proud to bring you MOME 1.0.0. There are some big improvements to SunPlus SPG240/SPG280 audio emulation, Cognos Powerplay cube aggregation and initial support for Oracle Financial Analyzer database write-back._ 
 
 ## What is MOME? 
-MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") engines, server software and the games and applications that run on those engines. 
+MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") console engines, 4GL programming languages and the games that ran on those consoles. 
 
 ## The MOME Project
 
-MOME's purpose is to preserve decades of multi-dimensional MOLAP engine game history. As analytical processing technology continues to rush forward, MOME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the MOLAP engine, its storage format and query language, along with the games and business applications that you know and love from the 90's. 
+MOME's purpose is to preserve decades of multi-dimensional MOLAP engine game engine history. As analytical processing technology continues to rush forward, MOME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the MOLAP engine, its storage format and query language, along with the games that you know and love from the 90's. 
 
 Over time, MOME (originally stood for Multiple OLAP Machine Emulator) absorbed the sister-project MESS (Multi-dimensional Engine Super System), so MOME now documents a wide variety of (mostly vintage) MOLAP, Relational OLAP ("ROLAP") and now Hybrid OLAP "HOLAP" engines in addition to the MOLAP engines and desktop clients that were its initial focus.
 
@@ -24,15 +24,15 @@ Individual MOLAP engines are specified by  _drivers_  which take the form of  [C
 
 ![Layered Drivers and Hypervisor Model](https://rittmananalytics.com/s/layers.png)
 
-By virtualizing and layering MOLAP functionality in this manner, it becomes possible for software and 4GL commands from one engine to run on another engine; for example, enabling advanced planning and budgeting games such as Oracle Express Financial Analyzer and Express Objects to run on Microsoft OLAP Services 7. 
+By virtualizing and layering MOLAP functionality in this manner, it may in-time become possible for software and 4GL commands from one engine to run on another engine; for example, enabling advanced planning and budgeting games such as Oracle Express Financial Analyzer and Express Objects to run on Microsoft OLAP Services 7. 
 
 ### What MOLAP Engines are Supported?
 
-The initial release of MOME supports the following MOLAP engines, query languages and game software.
+The initial release of MOME supports the following MOLAP engines and game cartridges:
 
 ![Supported MOLAP Engines](https://rittmananalytics.com/s/systems.png)
 
-### What Games are Supported?
+### What Games Cartridges are Supported?
 
  - Microsoft OLAP Services 7.0 AdventureWorks 
  - Oracle Financial Analyzer, Sales Analyzer and Express Web Agent 
@@ -45,7 +45,7 @@ The initial release of MOME supports the following MOLAP engines, query language
 
 # M.O.M.E. Homebrew Hardware Projects
 
-MOME can run on many different platforms such as [Windows](http://en.wikipedia.org/wiki/Windows), [Unix](http://en.wikipedia.org/wiki/Unix), [OS X](http://en.wikipedia.org/wiki/OS_X) etc. but by simply analyzing your emulated cubes on a desktop computer it lacks the look and feel of the original office hardware.
+MOME can run on many different platforms such as [Windows](http://en.wikipedia.org/wiki/Windows), [Unix](http://en.wikipedia.org/wiki/Unix), [OS X](http://en.wikipedia.org/wiki/OS_X) etc. but by simply analyzing your emulated cubes on a desktop computer it lacks the look and feel of the original office arcade hardware.
 
 ![enter image description here](https://rittmananalytics.com/s/retrohardware.png)
 
@@ -55,8 +55,9 @@ An Arcade Cabinet conversion into a MOME Cabinet consists of:
 -   replacing it with a computer (a PC) and
 -   interfacing it (display, controls, sound etc.)
 -   flashing required MOLAP engine drivers and application software into a game cartridge
+-   connecting it to a printer
 
-Note that you must legally own the original MOLAP engine hardware and software to use with MOME.
+Note that you must legally own the original MOLAP engine hardware and games cartridges to use with MOME.
 
 # License
 
