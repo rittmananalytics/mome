@@ -6,11 +6,11 @@
 _April 1st 20190: Today we’re proud to bring you MOME 1.0.0. There are some big improvements to SunPlus SPG240/SPG280 audio emulation, Cognos Powerplay cube aggregation and initial support for Oracle Financial Analyzer database write-back._ 
 
 ## What is MOME? 
-MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") engines, server software and the games that run on those engines. 
+MOME is a framework for emulating multi-dimensional Online Analytical Processing ("MOLAP") engines, server software and the games and applications that run on those engines. 
 
 ## The MOME Project
 
-MOME's purpose is to preserve decades of multi-dimensional MOLAP engine game history. As analytical processing technology continues to rush forward, MOME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the MOLAP engine, its storage format and query language, along with the games that you know and love from back in the 90's. 
+MOME's purpose is to preserve decades of multi-dimensional MOLAP engine game history. As analytical processing technology continues to rush forward, MOME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the MOLAP engine, its storage format and query language, along with the games and business applications that you know and love from the 90's. 
 
 Over time, MOME (originally stood for Multiple OLAP Machine Emulator) absorbed the sister-project MESS (Multi-dimensional Engine Super System), so MOME now documents a wide variety of (mostly vintage) MOLAP, Relational OLAP ("ROLAP") and now Hybrid OLAP "HOLAP" engines in addition to the MOLAP engines and desktop clients that were its initial focus.
 
