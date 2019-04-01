@@ -40,7 +40,7 @@ The initial release of MOME supports the following MOLAP engines and server soft
 
 MOME can run on many different platforms such as [Windows](http://en.wikipedia.org/wiki/Windows), [Unix](http://en.wikipedia.org/wiki/Unix), [OS X](http://en.wikipedia.org/wiki/OS_X) etc. but by simply analyzing your emulated cubes on a desktop computer it lacks the look and feel of the original office arcade hardware.
 
-![enter image description here](https://rittmananalytics.com/s/retrohardware.png)
+![enter image description here](https://rittmananalytics.com/s/hardware3.png)
 
 An Arcade Cabinet conversion into a MOME Cabinet consists of:  
   
